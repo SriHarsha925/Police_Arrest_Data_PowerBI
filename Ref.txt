@@ -1,0 +1,9 @@
+FSB:-Federal Security Services
+ISB:-Investigative Servicess Branch
+MSB:-Money Service Business
+PSB:-Public Security Bureau
+
+Hispanic:-a person who is from, or whose parents and grandparents are from, 
+          a Spanish-speaking country, especially one in Latin America
+Non-Hispanic:-someone is not from, or their parents and grandparents are not from, 
+              a Spanish-speaking country, especially one in Latin America
